@@ -1,0 +1,42 @@
+.first-section {
+    text-align: center;
+    padding: 3% 0%;
+  
+}
+.third-section {
+    padding: 3% 0%;
+    background-color: #F6AD9E;
+    border-radius: 2%;
+    text-align: center;
+    row-gap: 6px;
+    font-weight: bold;
+    margin: 0 1rem;
+  
+}
+.second-section {
+    padding: 3% 0%;
+    background-color: white;
+}
+.feature-line {
+    padding: 0% 0% 2% 0%;
+    border-width: 3px;
+    border-color: black;
+}
+.feature-section {
+  padding: 2% 12%;
+}
+.fifth-section {
+    padding: 3% 0%;
+    background-color: #F6AD9E;
+    border-radius: 2%;
+    text-align: center;
+    row-gap: 6px;
+    font-weight: bold;
+    margin: 0 1rem;
+}
+.fourth-section {
+    padding: 3% 0%;
+}
+.castomized-photo {
+    padding: 0 1rem;
+}
